@@ -41,7 +41,7 @@
 
 ---
 
-## 🏆 GSSoC / Hackathon Badges
+## 🏆 Hackathon Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/AptiCode%202025-Hackathon%20Participant-purple?style=for-the-badge" />
