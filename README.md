@@ -43,16 +43,7 @@
 |--------------|-------------------|-------------|
 | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) | ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Google Translate API](https://img.shields.io/badge/Google%20Translate-%230078D4.svg?style=flat&logo=google&logoColor=white) ![Whisper AI](https://img.shields.io/badge/Whisper-AI-%23000000.svg?style=flat) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) |
 
----
 
-## 🏆 Hackathons & Awards
-
-- 🥇 Mirae Asset Foundation Scholarship – 2024  
-- 💡 AptiCode Hackathon – 2025  
-- 🧠 Competitive Programming Hackathon – 2024  
-- 🔥 Solved **250+ problems** on LeetCode  
-
----
 
 ## 📫 Connect with Me
 
