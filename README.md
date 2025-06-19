@@ -44,7 +44,6 @@
 ## 🏆 GSSoC / Hackathon Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSSoC%202024-Participant-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AptiCode%202025-Hackathon%20Participant-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Competitive%20Programming%20Hackathon-2024-blue?style=for-the-badge" />
 </p>
