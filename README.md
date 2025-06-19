@@ -20,11 +20,15 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Santhosh-m2004&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-m2004&theme=algolia&margin-w=15" alt="Trophies">
 </p>
 
+---
+
+## 🧠 LeetCode Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-m2004&theme=algolia&margin-w=15" alt="Trophies">
+  <img src="https://leetcard.jacoblin.cool/Santhosh_m_2004?ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -41,12 +45,12 @@
 
 ---
 
-## 🏆 Hackathon Badges
+## 🏆 Hackathons & Awards
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AptiCode%202025-Hackathon%20Participant-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming%20Hackathon-2024-blue?style=for-the-badge" />
-</p>
+- 🥇 Mirae Asset Foundation Scholarship – 2024  
+- 💡 AptiCode Hackathon – 2025  
+- 🧠 Competitive Programming Hackathon – 2024  
+- 🔥 Solved **250+ problems** on LeetCode  
 
 ---
 
