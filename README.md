@@ -31,11 +31,15 @@
   <img src="https://leetcard.jacoblin.cool/Santhosh_m_2004?ext=contest" alt="LeetCode Stats" />
 </p>
 
+### 🏅 LeetCode Streak Badges
+
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/50" height="50" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/50" height="50" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/100" height="50" />
+  <img src="https://i.imgur.com/PLWqH5p.png" alt="50 Day Badge" width="100"/>
+  <img src="https://i.imgur.com/PLWqH5p.png" alt="50 Day Badge" width="100"/>
+  <img src="https://i.imgur.com/sqRlNiX.png" alt="100 Day Badge" width="100"/>
 </p>
+
+> 🟢 *Visual representation only. Earned on LeetCode.*
 
 ---
 
