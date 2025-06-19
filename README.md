@@ -31,6 +31,12 @@
   <img src="https://leetcard.jacoblin.cool/Santhosh_m_2004?ext=contest" alt="LeetCode Stats" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/50" height="50" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/50" height="50" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api/streak/100" height="50" />
+</p>
+
 ---
 
 ## 🛠️ Languages, Tools and Technologies
@@ -43,7 +49,7 @@
 |--------------|-------------------|-------------|
 | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) | ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Google Translate API](https://img.shields.io/badge/Google%20Translate-%230078D4.svg?style=flat&logo=google&logoColor=white) ![Whisper AI](https://img.shields.io/badge/Whisper-AI-%23000000.svg?style=flat) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) |
 
-
+---
 
 ## 📫 Connect with Me
 
