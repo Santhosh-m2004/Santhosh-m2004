@@ -5,13 +5,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Santhosh-m2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-m2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-m2004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
