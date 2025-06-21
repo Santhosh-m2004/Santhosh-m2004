@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Santhosh-m2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
 
