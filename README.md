@@ -24,15 +24,6 @@
 </p>
 
 ---
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Santhosh_m_2004?ext=contest" alt="LeetCode Stats" />
-</p>
-
-
-
 ## 🛠️ Languages, Tools and Technologies
 
 | Programming Languages | Frontend Development | Developer Tools |
